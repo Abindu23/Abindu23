@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Software+Engineer+%40+SharePoint+Designs;Founder+%26+CEO+of+Begosy+Tech;React.js+%7C+TypeScript+%7C+SPFx+Developer;Power+Platform+Automation+Engineer;Future+AI+Engineer+%F0%9F%A4%96;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Software+Engineer+%40+SharePoint+Designs;Founder+%26+CEO+of+Begosys+Tech;React.js+%7C+TypeScript+%7C+SPFx+Developer;Power+Platform+Automation+Engineer;Future+AI+Engineer+%F0%9F%A4%96;Always+Learning+Always+Building" />
 
 <br/><br/>
 
@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://begosystech.vercel.app/">
-<img src="https://img.shields.io/badge/Begosy%20Tech-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Begosys%20Tech-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:abiramithangaraj2351@gmail.com">
@@ -35,7 +35,7 @@ Location: Chennai, India
 
 Role:
   - Software Engineer
-  - Founder & CEO @ Begosy Tech
+  - Founder & CEO @ Begosys Tech
 
 Experience: 2+ Years
 
@@ -61,7 +61,7 @@ Mission:
 
 ---
 
-# 🚀 Founder of Begosy Tech
+# 🚀 Founder of Begosys Tech
 
 <div align="center">
 
@@ -70,14 +70,14 @@ Mission:
 <br/><br/>
 
 <a href="https://begosystech.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Visit_Begosy_Tech-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_Visit_Begosys_Tech-7C3AED?style=for-the-badge"/>
 </a>
 
 </div>
 
-### 🏢 Begosy Tech
+### 🏢 Begosys Tech
 
-At **Begosy Tech**, we help startups and businesses build modern digital products.
+At **Begosys Tech**, we help startups and businesses build modern digital products.
 
 ### Services
 
